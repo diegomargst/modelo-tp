@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Cafetera Moulinex Dolce Gusto",
+        "price": 10000,
+        "discount": 30,
+        "category": "visited",
+        "description": "Cafetera Dolce Gusto Lumio.La cafetera Dolce Gusto Lumio es de variedad automatica que ha llegado con un diseño radical al que nos tenia acostumbrado Dolce Gusto. En este post te contamos todo lo que necesitas saber sobre ella, desde su caracteristicas tecnicas hasta la calidad de las capsulas o precio",
+        "image": "img-cafetera-moulinex.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Macbook Pro 2022",
+        "price": 50000,
+        "discount": 10,
+        "category": "in-sale",
+        "description": "Macbook Pro 2022, la ultima notebook de Apple",
+        "image": "macbook-2022.jpg"
+    }
+]
